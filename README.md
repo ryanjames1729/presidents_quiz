@@ -4,4 +4,4 @@ This is a python script that will take a Google Form quiz and based on the feedb
 The quiz that the script takes is a 5 question quiz on US Presidents. Since the script picks answers at random it can take anywhere from a minute to 3 minutes for the program to determine the correct answers.
 The link for the google form quiz is: https://goo.gl/forms/bHx4lCpiDDrVwWRv2
 
-This was done to demonstrate to my students how a program can "learn" from its mistakes and refine its decision making.
+This was done to demonstrate to my students how a program can "learn" from its mistakes and refine its decision making. I would love any thoughts on how this can be improved as I am not a professional programmer.
